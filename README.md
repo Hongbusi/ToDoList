@@ -7,7 +7,7 @@
 - [x] 29. Vue3 源码阅读和前端路由原理
 - [x] 30. Vue-router 深入解析
 - [x] 31. Vue-router 知识补充和 Vuex 起步
-- [ ] 32. Vuex 核心 state-getters-mutations
+- [x] 32. Vuex 核心 state-getters-mutations
 - [ ] 33. Vuex 核心概念和 nexttick 知识补充
 
 ## 第 8 周（1.31 ～ 2.6）
