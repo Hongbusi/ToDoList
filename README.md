@@ -8,7 +8,15 @@
 - [x] 30. Vue-router 深入解析
 - [x] 31. Vue-router 知识补充和 Vuex 起步
 - [x] 32. Vuex 核心 state-getters-mutations
-- [ ] 33. Vuex 核心概念和 nexttick 知识补充
+- [x] 33. Vuex 核心概念和 nexttick 知识补充
+- [ ] 34. 知识补充和邂逅 TypeScript
+- [ ] 35. TypeScript 数据类型和类型操作
+- [ ] 36. TypeScript 数据类型和类型操作（2）
+- [ ] 37. TypeScript 类型补充 - 函数详解
+- [ ] 38. TypeScript 类型补充 - 函数详解（2）
+- [ ] 39. TypeScript 精讲 - 类和接口
+- [ ] 40. TypeScript 精讲 - 类和接口（2）
+- [ ] 41. TypeScript 接口 - 泛型 - 类型声明
 
 ## 第 8 周（1.31 ～ 2.6）
 
