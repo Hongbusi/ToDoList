@@ -2,7 +2,7 @@
 
 ## 第 10 周（2.14 ～ 2.20）
 
-- [ ] [后台管理系统项目](https://github.com/Hongbusi/vue-element-admin)
+- [ ] [后台管理系统](https://github.com/Hongbusi/vue-element-admin)
 
 ## 第 9 周（2.7 ～ 2.13）
 
