@@ -1,5 +1,9 @@
 # ToDoList
 
+## 第 10 周（2.14 ～ 2.20）
+
+- [ ] 42. 
+
 ## 第 9 周（2.7 ～ 2.13）
 
 - [x] 27. Mini-Vue 渲染器和响应式系统实现
@@ -14,9 +18,9 @@
 - [x] 36. TypeScript 数据类型和类型操作（2）
 - [x] 37. TypeScript 类型补充 - 函数详解
 - [x] 38. TypeScript 类型补充 - 函数详解（2）
-- [ ] 39. TypeScript 精讲 - 类和接口
-- [ ] 40. TypeScript 精讲 - 类和接口（2）
-- [ ] 41. TypeScript 接口 - 泛型 - 类型声明
+- [x] 39. TypeScript 精讲 - 类和接口
+- [x] 40. TypeScript 精讲 - 类和接口（2）
+- [x] 41. TypeScript 接口 - 泛型 - 类型声明
 
 ## 第 8 周（1.31 ～ 2.6）
 
