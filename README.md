@@ -3,6 +3,7 @@
 ## 第 10 周（2.14 ～ 2.20）
 
 - [ ] [后台管理系统](https://github.com/Hongbusi/vue-element-admin)
+- [ ] [Vue.js 的设计与实现 - 第一篇](https://github.com/Hongbusi/code-for-vue3-book)
 
 ## 第 9 周（2.7 ～ 2.13）
 
