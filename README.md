@@ -2,9 +2,9 @@
 
 ## 第 11 周（2.21 ~ 2.27）
 
-- [ ] [Vue.js 的设计与实现 - 第二篇：响应系统](https://github.com/Hongbusi/code-for-vue3-book)
 - [ ] [后台管理系统（100%）](https://github.com/Hongbusi/vue-element-admin)
 - [ ] [docs 技术升级 vitepress + @vue/theme](https://github.com/Hongbusi/docs)
+- [ ] [Vue.js 的设计与实现 - 第二篇：响应系统](https://github.com/Hongbusi/code-for-vue3-book)
 
 ## 第 10 周（2.14 ～ 2.20）
 
