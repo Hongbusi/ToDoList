@@ -8,6 +8,7 @@
   - [ ] 用户列表页
 - [x] [docs 技术升级 vitepress + @vue/theme](https://github.com/Hongbusi/docs) (停止维护，转至 [Hongbusi.github.io](https://github.com/Hongbusi/Hongbusi.github.io))
 - [ ] [Vue.js 的设计与实现 - 第二篇：响应系统](https://github.com/Hongbusi/code-for-vue3-book)
+- [x] [uni-app 初体验](https://hongbusi.github.io/posts/uni-app)
 
 ## 第 10 周（2.14 ～ 2.20）
 
