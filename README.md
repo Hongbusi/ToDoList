@@ -2,13 +2,19 @@
 
 ## 第 11 周（2.21 ~ 2.27）
 
-- [ ] [后台管理系统（100%）](https://github.com/Hongbusi/vue-element-admin)
-- [ ] [docs 技术升级 vitepress + @vue/theme](https://github.com/Hongbusi/docs)
+- [ ] [后台管理系统](https://github.com/Hongbusi/vue-element-admin)
+  - [x] form 组件封装
+  - [x] tablea 组件封装
+  - [ ] 用户列表页
+- [x] [docs 技术升级 vitepress + @vue/theme](https://github.com/Hongbusi/docs) (停止维护，转至 [Hongbusi.github.io](https://github.com/Hongbusi/Hongbusi.github.io))
 - [ ] [Vue.js 的设计与实现 - 第二篇：响应系统](https://github.com/Hongbusi/code-for-vue3-book)
 
 ## 第 10 周（2.14 ～ 2.20）
 
-- [x] [后台管理系统（30%）](https://github.com/Hongbusi/vue-element-admin)
+- [x] [后台管理系统](https://github.com/Hongbusi/vue-element-admin)
+  - [x] 项目搭建
+  - [x] 登录页
+  - [x] 首页布局
 - [x] [eslint-config](https://github.com/Hongbusi/configs)
 - [x] [Vue.js 的设计与实现 - 第一篇：框架设计概览](https://github.com/Hongbusi/code-for-vue3-book)
 
