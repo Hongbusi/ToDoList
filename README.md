@@ -3,7 +3,7 @@
 ## 第 12 周（2.28 ~ 3.6）
 
 - [ ] [后台管理系统](https://github.com/Hongbusi/vue-element-admin)
-- [ ] [Vue.js 的设计与实现 - 第二篇：响应系统](https://github.com/Hongbusi/code-for-vue3-book)
+- [ ] [Vue.js 的设计与实现](https://github.com/Hongbusi/code-for-vue3-book)
   - [ ] 第 5 章 非原始值的响应式方案
   - [ ] 第 6 章 原始值的响应式方案
 
@@ -15,7 +15,7 @@
   - [x] 用户列表页
   - [x] 按钮权限管理
 - [x] [docs 技术升级 vitepress + @vue/theme](https://github.com/Hongbusi/docs) (停止维护，转至 [Hongbusi.github.io](https://github.com/Hongbusi/Hongbusi.github.io))
-- [ ] [Vue.js 的设计与实现 - 第二篇：响应系统](https://github.com/Hongbusi/code-for-vue3-book)
+- [ ] [Vue.js 的设计与实现](https://github.com/Hongbusi/code-for-vue3-book)
   - [x] 第 4 章 响应系统的作用与实现
 - [x] [uni-app 初体验](https://hongbusi.github.io/posts/uni-app)
 - [ ] ~~写给过去一年的自己~~
@@ -27,7 +27,8 @@
   - [x] 登录页
   - [x] 首页布局
 - [x] [eslint-config](https://github.com/Hongbusi/configs)
-- [x] [Vue.js 的设计与实现 - 第一篇：框架设计概览](https://github.com/Hongbusi/code-for-vue3-book)
+- [ ] [Vue.js 的设计与实现](https://github.com/Hongbusi/code-for-vue3-book)
+  - [x] 第一篇：框架设计概览
 
 ## 第 9 周（2.7 ～ 2.13）
 
