@@ -1,11 +1,19 @@
 # ToDoList
 
-## 第 12 周（2.28 ~ 3.6）
+## 第 13 周（2.7 ~ 3.13）
 
 - [ ] [后台管理系统](https://github.com/Hongbusi/vue-element-admin)
 - [ ] [Vue.js 的设计与实现](https://github.com/Hongbusi/code-for-vue3-book)
   - [ ] 第 5 章 非原始值的响应式方案
   - [ ] 第 6 章 原始值的响应式方案
+- [ ] personal site
+
+## 第 12 周（2.28 ~ 3.6）
+
+- [x] personal site
+- [x] V8 执行原理
+- [x] JS 执行上下文
+- [x] JS 闭包、内存泄漏
 
 ## 第 11 周（2.21 ~ 2.27）
 
