@@ -6,7 +6,7 @@
 - [ ] [Vue.js 的设计与实现](https://github.com/Hongbusi/code-for-vue3-book)
   - [ ] 第 5 章 非原始值的响应式方案
   - [ ] 第 6 章 原始值的响应式方案
-- [ ] personal site
+- [x] [My First VS Code Extension](https://hongbusi.github.io/posts/first-vscode-extension)
 
 ## 第 12 周（2.28 ~ 3.6）
 
