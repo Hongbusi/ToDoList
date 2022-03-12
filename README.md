@@ -7,6 +7,7 @@
   - [ ] 第 5 章 非原始值的响应式方案
   - [ ] 第 6 章 原始值的响应式方案
 - [x] [My First VS Code Extension](https://hongbusi.github.io/posts/first-vscode-extension)
+- [x] [VS Code Extension - Code Snippets](https://github.com/Hongbusi/code-snippets)
 
 ## 第 12 周（2.28 ~ 3.6）
 
