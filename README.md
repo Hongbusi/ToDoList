@@ -1,11 +1,17 @@
 # ToDoList
 
+## 第 14 周（3.14 ～ 3.20）
+
+- [ ] [后台管理系统（重构）](https://github.com/Hongbusi/vue-element-admin)
+- [ ] [Docs nav](https://github.com/Hongbusi/navigation)
+
 ## 第 13 周（2.7 ~ 3.13）
 
-- [ ] [后台管理系统 - Vite 重构](https://github.com/Hongbusi/vue-element-admin)
 - [ ] ~~[Vue.js 的设计与实现](https://github.com/Hongbusi/code-for-vue3-book)~~
 - [x] [My First VS Code Extension](https://hongbusi.github.io/posts/first-vscode-extension)
 - [x] [VS Code Extension - Code Snippets](https://github.com/Hongbusi/code-snippets)
+- [x] [VS Code 快捷键（Mac）](https://hongbusi.github.io/posts/vscode-shortcuts)
+- [x] [vscode settings](https://github.com/Hongbusi/vscode-settings)
 
 ## 第 12 周（2.28 ~ 3.6）
 
