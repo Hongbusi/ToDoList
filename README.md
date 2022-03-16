@@ -3,7 +3,7 @@
 ## 第 14 周（3.14 ～ 3.20）
 
 - [ ] [后台管理系统（重构）](https://github.com/Hongbusi/vue-element-admin)
-- [ ] [Docs nav](https://github.com/Hongbusi/navigation)
+- [ ] [Docs nav](https://github.com/Hongbusi/docs-navigation)
 
 ## 第 13 周（2.7 ~ 3.13）
 
