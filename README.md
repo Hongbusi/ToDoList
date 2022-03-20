@@ -6,7 +6,7 @@
 
 ## 第 14 周（3.14 ～ 3.20）
 
-- ~~[ ] [后台管理系统（重构）](https://github.com/Hongbusi/vue-element-admin)~~
+- [ ] ~~[后台管理系统（重构）](https://github.com/Hongbusi/vue-element-admin)~~
 - [x] [Docs nav (First version)](https://github.com/Hongbusi/docs-navigation)
 - [x] 你不知道的 JavaScript 上卷 - 第二部分 第二章 this 全面解析
 - [x] [手写 bind、apply、call、自动柯里化函数、组合函数](https://github.com/Hongbusi/handwritten-code)
