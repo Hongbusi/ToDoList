@@ -3,6 +3,8 @@
 ## 第 15 周（3.21 ～ 3.27）
 
 - [ ] 你不知道的 JavaScript 上卷
+- [ ] [vue-hbs-admin](https://github.com/Hongbusi/vue-hbs-admin)
+- [ ] [petite-vue](https://github.com/Hongbusi/petite-vue)
 
 ## 第 14 周（3.14 ～ 3.20）
 
@@ -28,7 +30,7 @@
 
 ## 第 11 周（2.21 ~ 2.27）
 
-- [x] [后台管理系统](https://github.com/Hongbusi/vue-element-admin)
+- [x] [后台管理系统](https://github.com/Hongbusi/vue-hbs-admin)
   - [x] form 组件封装
   - [x] tablea 组件封装
   - [x] 用户列表页
