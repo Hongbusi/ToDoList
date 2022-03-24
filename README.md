@@ -5,6 +5,8 @@
 - [ ] 你不知道的 JavaScript 上卷
 - [ ] [vue-hbs-admin](https://github.com/Hongbusi/vue-hbs-admin)
 - [ ] [petite-vue](https://github.com/Hongbusi/petite-vue)
+  - [x] reactivity
+  - [ ] runtime-core
 
 ## 第 14 周（3.14 ～ 3.20）
 
