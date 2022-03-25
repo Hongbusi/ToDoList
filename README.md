@@ -7,6 +7,7 @@
 - [ ] [petite-vue](https://github.com/Hongbusi/petite-vue)
   - [x] reactivity
   - [ ] runtime-core
+- [x] GitHub 主页更新
 
 ## 第 14 周（3.14 ～ 3.20）
 
