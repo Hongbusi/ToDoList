@@ -4,6 +4,7 @@
 
 - [ ] 你不知道的 JavaScript 上卷
 - [ ] [vue-hbs-admin](https://github.com/Hongbusi/vue-hbs-admin)
+  - [x] 登录页重构
 
 ## 第 15 周（3.21 ～ 3.27）
 
