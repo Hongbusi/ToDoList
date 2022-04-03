@@ -20,7 +20,7 @@
 - [ ] [petite-vue](https://github.com/Hongbusi/petite-vue)
   - [x] runtime-dom
   - [x] runtime-core
-  - [ ] compiler-core
+  - [ ] compiler-core (30%)
 
 ## 第 15 周（3.21 ～ 3.27）
 
