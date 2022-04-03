@@ -1,5 +1,13 @@
 # ToDoList
 
+## 第 17 周（4.4 ～ 4.10）
+
+- [ ] [petite-vue](https://github.com/Hongbusi/petite-vue)
+  - [ ] compiler-core
+- [ ] [Vue.js 的设计与实现](https://github.com/Hongbusi/code-for-book)
+- [ ] [petite-vue 优化](https://github.com/Hongbusi/petite-vue)
+- [ ] [vue-hbs-admin](https://github.com/Hongbusi/vue-hbs-admin)
+
 ## 第 16 周（3.28 ～ 4.3）
 
 - [ ] ~~你不知道的 JavaScript 上卷~~
