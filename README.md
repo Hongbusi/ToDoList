@@ -2,13 +2,17 @@
 
 ## 第 16 周（3.28 ～ 4.3）
 
-- [ ] 你不知道的 JavaScript 上卷
+- [ ] ~~你不知道的 JavaScript 上卷~~
 - [ ] [vue-hbs-admin](https://github.com/Hongbusi/vue-hbs-admin)
   - [x] 登录页重构
   - [x] Excel 导入导出
   - [x] Layouts 优化
   - [x] 关于
 - [x] [bookmarks](https://github.com/Hongbusi/bookmarks) `docs-navigation` rename `bookmarks`
+- [ ] [petite-vue](https://github.com/Hongbusi/petite-vue)
+  - [x] runtime-dom
+  - [x] runtime-core
+  - [ ] compiler-core
 
 ## 第 15 周（3.21 ～ 3.27）
 
