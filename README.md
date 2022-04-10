@@ -10,7 +10,9 @@
 
 - [x] [petite-vue](https://github.com/Hongbusi/petite-vue)
   - [x] compiler-core
-- [x] [Vue.js 的设计与实现 - 第 6 章](https://github.com/Hongbusi/code-for-book)
+- [ ] [Vue.js 的设计与实现](https://github.com/Hongbusi/code-for-book)
+  - [x] 第 6 章 原始值的响应式方案
+  - [x] 第 7 章 渲染器的设计
 - [ ] ~~[petite-vue 优化](https://github.com/Hongbusi/petite-vue)~~
 - [x] [vue-hbs-admin](https://github.com/Hongbusi/vue-hbs-admin)
 - [x] [vue-hbs-admin-docs](https://github.com/Hongbusi/vue-hbs-admin-docs)
