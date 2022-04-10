@@ -1,12 +1,19 @@
 # ToDoList
 
+## 第 18 周（4.11 ～ 4.17）
+
+- [ ] [Vue.js 的设计与实现](https://github.com/Hongbusi/code-for-book)
+- [ ] [vue-hbs-admin](https://github.com/Hongbusi/vue-hbs-admin)
+- [ ] [vue-hbs-admin-docs](https://github.com/Hongbusi/vue-hbs-admin-docs)
+
 ## 第 17 周（4.4 ～ 4.10）
 
 - [x] [petite-vue](https://github.com/Hongbusi/petite-vue)
   - [x] compiler-core
-- [ ] [Vue.js 的设计与实现](https://github.com/Hongbusi/code-for-book)
-- [ ] [petite-vue 优化](https://github.com/Hongbusi/petite-vue)
-- [ ] [vue-hbs-admin](https://github.com/Hongbusi/vue-hbs-admin)
+- [x] [Vue.js 的设计与实现 - 第 6 章](https://github.com/Hongbusi/code-for-book)
+- [ ] ~~[petite-vue 优化](https://github.com/Hongbusi/petite-vue)~~
+- [x] [vue-hbs-admin](https://github.com/Hongbusi/vue-hbs-admin)
+- [x] [vue-hbs-admin-docs](https://github.com/Hongbusi/vue-hbs-admin-docs)
 
 ## 第 16 周（3.28 ～ 4.3）
 
