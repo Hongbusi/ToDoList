@@ -8,6 +8,7 @@
   - [x] CountTo
   - [x] Cropper
 - [ ] [vue-hbs-admin-docs](https://github.com/Hongbusi/vue-hbs-admin-docs)
+  - [x] Cropper
 
 ## 第 17 周（4.4 ～ 4.10）
 
