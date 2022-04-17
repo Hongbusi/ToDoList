@@ -3,13 +3,16 @@
 ## 第 18 周（4.11 ～ 4.17）
 
 - [ ] 14 / 71
-- [ ] [Vue.js 的设计与实现](https://github.com/Hongbusi/code-for-book)
 - [ ] [vue-hbs-admin](https://github.com/Hongbusi/vue-hbs-admin)
   - [x] CountTo
   - [x] Cropper
 - [ ] [vue-hbs-admin-docs](https://github.com/Hongbusi/vue-hbs-admin-docs)
   - [x] CountTo
   - [x] Cropper
+
+### 星期日（4.17）
+
+- [x] [英语语法框架](https://github.com/Hongbusi/english/blob/main/english-grammar/frame.md)
 
 ## 第 17 周（4.4 ～ 4.10）
 
