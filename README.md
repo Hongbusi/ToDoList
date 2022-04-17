@@ -3,10 +3,10 @@
 
 ## 第 19 周（4.18 ～ 4.24）
 
-### 星期一（4.18）
-
-- [ ] [英语语法框架](https://github.com/Hongbusi/english/blob/main/english-grammar/frame.md)
-
+- [ ] Vue.js 的设计与实现 - 第 8 章 挂载与更新
+- [ ] Vue.js 的设计与实现 - 第 9 章 简单 diff 算法
+- [ ] 英语语法框架 - 英语简单句
+- [ ] 英语语法框架 - 数词
 
 ## 第 18 周（4.11 ～ 4.17）
 
