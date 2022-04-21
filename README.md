@@ -7,6 +7,15 @@
 - [ ] 英语语法框架 - 英语简单句
 - [ ] 英语语法框架 - 数词
 
+### 星期四（4.21）
+
+- [x] [更新 release README](https://github.com/Hongbusi/release)
+
+### 星期三（4.20）
+
+- [x] [release](https://github.com/Hongbusi/release)
+- [x] [create-release](https://github.com/Hongbusi/create-release)
+
 ### 星期二（4.19）
 
 - [x] this、垃圾回收、闭包、Promise 回顾
