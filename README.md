@@ -6,22 +6,10 @@
 - [ ] Vue.js 的设计与实现 - 第 9 章 简单 diff 算法
 - [ ] 英语语法框架 - 英语简单句
 - [ ] 英语语法框架 - 数词
-
-### 星期四（4.21）
-
 - [x] [更新 release README](https://github.com/Hongbusi/release)
-
-### 星期三（4.20）
-
 - [x] [release](https://github.com/Hongbusi/release)
 - [x] [create-release](https://github.com/Hongbusi/create-release)
-
-### 星期二（4.19）
-
 - [x] this、垃圾回收、闭包、Promise 回顾
-
-### 星期一（4.18）
-
 - [x] async / await
 - [x] 事件循环 - 微任务 - 宏任务
 
@@ -34,9 +22,6 @@
 - [ ] [vue-hbs-admin-docs](https://github.com/Hongbusi/vue-hbs-admin-docs)
   - [x] CountTo
   - [x] Cropper
-
-### 星期日（4.17）
-
 - [x] [英语语法框架](https://github.com/Hongbusi/english/blob/main/english-grammar/frame.md)
 
 ## 第 17 周（4.4 ～ 4.10）
