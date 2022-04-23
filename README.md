@@ -6,8 +6,8 @@
 - [ ] Vue.js 的设计与实现 - 第 9 章 简单 diff 算法
 - [ ] 英语语法框架 - 英语简单句
 - [ ] 英语语法框架 - 数词
-- [x] [更新 release README](https://github.com/Hongbusi/release)
 - [x] [release](https://github.com/Hongbusi/release)
+- [x] [更新 release README](https://github.com/Hongbusi/release)
 - [x] [create-release](https://github.com/Hongbusi/create-release)
 - [x] this、垃圾回收、闭包、Promise 回顾
 - [x] async / await
