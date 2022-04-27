@@ -6,6 +6,10 @@
 - [ ] Vue.js 的设计与实现 - 第 9 章 简单 diff 算法
 - [ ] 英语语法框架 - 英语简单句
 - [ ] 英语语法框架 - 数词
+- [ ] [vue-hbs-admin](https://github.com/developer-plus/vue-hbs-admin)
+  - [x] 仓库迁移
+  - [x] Page component
+  - [x] Review
 
 ## 第 19 周（4.18 ～ 4.24）
 
