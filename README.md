@@ -10,6 +10,7 @@
   - [x] 仓库迁移
   - [x] Page component
   - [x] Review
+- [x] [bookmarks](https://github.com/developer-plus/bookmarks)
 
 ## 第 19 周（4.18 ～ 4.24）
 
