@@ -2,10 +2,7 @@
 
 ## 第 20 周（4.25 ～ 5.1）
 
-- [ ] Vue.js 的设计与实现 - 第 8 章 挂载与更新
-- [ ] Vue.js 的设计与实现 - 第 9 章 简单 diff 算法
-- [ ] 英语语法框架 - 英语简单句
-- [ ] 英语语法框架 - 数词
+- [x] JavaScript 高级程序设计 - 第 23 章 JSON
 - [ ] [vue-hbs-admin](https://github.com/developer-plus/vue-hbs-admin)
   - [x] 仓库迁移
   - [x] Page component
