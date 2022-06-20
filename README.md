@@ -4,6 +4,7 @@
 
 - [ ] [developer-plus 周刊](https://github.com/developer-plus/weekly)
 - [ ] [developer-plus 每日一题](https://github.com/developer-plus/interview)
+- [ ] 如何阅读一本书
 
 ## 摆烂一个月...
 
