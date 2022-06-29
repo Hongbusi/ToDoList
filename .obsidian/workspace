@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9acc87ec3c20a0e0",
+        "id": "5a06fdd74cb316ae",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +82,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9acc87ec3c20a0e0",
+  "active": "5a06fdd74cb316ae",
   "lastOpenFiles": [
     "README.md",
     "journal/2022-06-27.md",
