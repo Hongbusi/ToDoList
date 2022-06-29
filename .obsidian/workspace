@@ -7,8 +7,12 @@
         "id": "5a06fdd74cb316ae",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Day Planners/Day Planner-20220629.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Day Planners/Day Planner-20220629.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,8 +89,10 @@
   },
   "active": "5a06fdd74cb316ae",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20220629.md",
+    "Day Planners/Day Planner-20220628.md",
+    "Day Planners/Day Planner-20220627.md",
     "README.md",
-    "journal/2022-06-27.md",
-    "Day Planners/Day Planner-20220627.md"
+    "journal/2022-06-27.md"
   ]
 }
