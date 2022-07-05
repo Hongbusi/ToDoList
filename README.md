@@ -8,3 +8,5 @@
 - [ ] [developer-plus 每日一题](https://github.com/developer-plus/interview)
 - [x] 电脑环境配置
 - [x] Git 开发规范
+- [x] Git 开发规范分享
+- [x] 快捷导肮
