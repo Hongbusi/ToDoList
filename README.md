@@ -1,9 +1,5 @@
 # ToDoList
 
-## 第 22 周（5.9 ～ 5.15）
-
-- [x] [weekly](https://github.com/developer-plus/weekly)
-
 ## 第 21 周（5.2 ～ 5.8）
 
 - [x] [文件上传](https://github.com/developer-plus/file-upload)
