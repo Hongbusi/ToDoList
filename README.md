@@ -1,10 +1,5 @@
 # ToDoList
 
-## 第 23 周（6.20 ~ 6.26）
-
-- [ ] [developer-plus 周刊](https://github.com/developer-plus/weekly)
-- [ ] [developer-plus 每日一题](https://github.com/developer-plus/interview)
-
 ## 摆烂一个月...
 
 ## 第 22 周（5.9 ～ 5.15）
