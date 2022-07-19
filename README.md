@@ -1,7 +1,5 @@
 # ToDoList
 
-## 摆烂一个月...
-
 ## 第 22 周（5.9 ～ 5.15）
 
 - [x] [weekly](https://github.com/developer-plus/weekly)
