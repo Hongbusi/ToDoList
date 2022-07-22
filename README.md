@@ -2,8 +2,6 @@
 
 ## 第 21 周（5.2 ～ 5.8）
 
-- [x] [文件上传](https://github.com/developer-plus/file-upload)
-
 ## 第 20 周（4.25 ～ 5.1）
 
 - [x] JavaScript 高级程序设计 - 第 23 章 JSON
