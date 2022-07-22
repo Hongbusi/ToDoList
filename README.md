@@ -3,7 +3,6 @@
 ## 第 21 周（5.2 ～ 5.8）
 
 - [x] [文件上传](https://github.com/developer-plus/file-upload)
-- [x] [开源指南](https://github.com/developer-plus/open-source-guide)
 
 ## 第 20 周（4.25 ～ 5.1）
 
