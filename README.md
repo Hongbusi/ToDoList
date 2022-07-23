@@ -6,7 +6,6 @@
 - [ ] [vue-hbs-admin](https://github.com/developer-plus/vue-hbs-admin)
   - [x] 仓库迁移
   - [x] Page component
-  - [x] Review
 
 ## 第 19 周（4.18 ～ 4.24）
 
