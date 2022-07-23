@@ -2,8 +2,6 @@
 
 ## 第 20 周（4.25 ～ 5.1）
 
-- [x] JavaScript 高级程序设计 - 第 23 章 JSON
-
 ## 第 19 周（4.18 ～ 4.24）
 
 - [x] [release](https://github.com/Hongbusi/release)
