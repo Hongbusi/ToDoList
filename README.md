@@ -3,7 +3,6 @@
 ## 第 20 周（4.25 ～ 5.1）
 
 - [x] JavaScript 高级程序设计 - 第 23 章 JSON
-- [ ] [vue-hbs-admin](https://github.com/developer-plus/vue-hbs-admin)
 
 ## 第 19 周（4.18 ～ 4.24）
 
