@@ -5,8 +5,6 @@
 - [x] [release](https://github.com/Hongbusi/release)
 - [x] [更新 release README](https://github.com/Hongbusi/release)
 - [x] [create-release](https://github.com/Hongbusi/create-release)
-- [x] this、垃圾回收、闭包、Promise 回顾
-- [x] async / await
 
 ## 第 18 周（4.11 ～ 4.17）
 
