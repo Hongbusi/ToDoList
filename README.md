@@ -7,7 +7,6 @@
 - [x] [create-release](https://github.com/Hongbusi/create-release)
 - [x] this、垃圾回收、闭包、Promise 回顾
 - [x] async / await
-- [x] 事件循环 - 微任务 - 宏任务
 
 ## 第 18 周（4.11 ～ 4.17）
 
