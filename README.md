@@ -4,7 +4,6 @@
 
 - [x] [release](https://github.com/Hongbusi/release)
 - [x] [更新 release README](https://github.com/Hongbusi/release)
-- [x] [create-release](https://github.com/Hongbusi/create-release)
 
 ## 第 18 周（4.11 ～ 4.17）
 
